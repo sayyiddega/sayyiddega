@@ -44,8 +44,7 @@
 </details>
 </br>
 
-[linkedin]:https://www.linkedin.com/in/nandang-eka-prasetya-265b5b1b8/
-[github]: https://github.com/naneps
-[instagram]: https://www.instagram.com/nannn_ep/
-[facebook]:https://www.facebook.com/prasetya.libra/
-[email]: ekaprasetya2244@gmail.com/
+[linkedin]:https://www.linkedin.com/in/sayid-al-husain-bilfagih-5a415b160
+[github]: https://github.com/sayyiddega
+[instagram]: https://www.instagram.com/ucen_klr/
+[email]: sayyid.dega@gmail.com
