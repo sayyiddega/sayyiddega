@@ -6,7 +6,7 @@
 <div align="center">
 
 [![Instagram: Sayid Al Husain Bilfagih](https://img.shields.io/badge/-FOLLOW-blue?style=for-the-badge&logo=Instagram&link=ttps://www.instagram.com/ucen_klr/)][instagram]
-[![GitHub followers](https://img.shields.io/github/followers/naneps?logo=GitHub&style=for-the-badge)][github]
+[![GitHub followers](https://img.shields.io/github/followers/sayyiddega?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: Sayid Al Husain Bilfagih](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=www.linkedin.com/in/sayid-al-husain-bilfagih-5a415b160)][linkedin]
 
 </div>
