@@ -1,6 +1,4 @@
-<img align="left" height="215" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-
-###
+<br clear="both">
 
 <h2 align="left">Hi 👋! My name is Husain Bilf and I'm a System Alayst & Web Developer from Pekanbaru - Indonesia</h2>
 
@@ -56,11 +54,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sayyiddega/sayyiddega/output/snake.svg" alt="Snake animation" />
+<img align="right" height="100" src="https://i.pinimg.com/originals/00/61/fc/0061fc35a408f083f47d2ba5b92a4a73.gif"  />
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/00/61/fc/0061fc35a408f083f47d2ba5b92a4a73.gif"  />
+<img src="https://raw.githubusercontent.com/sayyiddega/sayyiddega/output/snake.svg" alt="Snake animation" />
 
 ###
 
