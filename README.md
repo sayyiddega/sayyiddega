@@ -58,7 +58,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sayyiddega/sayyiddega/output/gitartwork.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sayyiddega/sayyiddega/blob/main/gitartwork.svg" alt="Snake animation" />
 
 ###
 
