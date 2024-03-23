@@ -67,10 +67,17 @@
 </div>
   </br>
 </details>
-
+</br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sayyiddega&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=sayyiddega&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </br>
 
 [linkedin]:https://www.linkedin.com/in/sayid-al-husain-bilfagih-5a415b160
 [github]: https://github.com/sayyiddega
 [instagram]: https://www.instagram.com/ucen_klr/
 [email]: sayyid.dega@gmail.com
+
+
+</div>
+
