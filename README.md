@@ -1,8 +1,6 @@
 
   ![1616667695311 (1)](https://github.com/sayyiddega/sayyiddega/assets/89374653/a18bf584-9c56-4825-b1e5-6c192268b5f9)
 
-
-</br>
 <h1 align="center"> Hi 👋, I'm <a href="https://www.instagram.com/ucen_klr/">Husain Bilf</a> and I'm a System Alayst & Web Developer</h1>
 <div align="center">
 
