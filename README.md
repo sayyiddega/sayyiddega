@@ -2,10 +2,7 @@
 <img align="center" width="100%" src="https://github.com/sayyiddega/sayyiddega/assets/89374653/a18bf584-9c56-4825-b1e5-6c192268b5f9"  />
 </div>
 <h1 align="center"> Hi 👋, I'm <a href="https://www.instagram.com/ucen_klr/">Husain Bilf</a> and I'm a System Alayst & Web Developer</h1>
-<div align="center">
 
-[![jasineri/gitartwork](gitartwork.svg)](https://github.com/sayyiddega/sayyiddega)
-</div>
 <div align="center">
 
 <div align="center">
@@ -70,7 +67,11 @@
 </div>
   </br>
 </details>
-</br>
+
+<div align="center">
+
+[![jasineri/gitartwork](gitartwork.svg)](https://github.com/sayyiddega/sayyiddega)
+</div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sayyiddega&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" width="100%" alt="streak graph"  />
 </br>
