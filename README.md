@@ -3,7 +3,7 @@
 </div>
 <h1 align="center"> Hi 👋, I'm <a href="https://www.instagram.com/ucen_klr/">Husain Bilf</a> and I'm a System Analist & Web Developer</h1>
 
-<div align="center">
+
 
 <div align="center">
   <a href="https://www.youtube.com/channel/UC1GnjWqWB8F_OGQ6kKl_ydQ" target="_blank">
@@ -23,10 +23,12 @@
   </a>
 </div>
 
-
+<div align="center">
+  
 [![Instagram: Sayid Al Husain Bilfagih](https://img.shields.io/badge/-FOLLOW-blue?style=for-the-badge&logo=Instagram&link=ttps://www.instagram.com/ucen_klr/)][instagram]
 [![GitHub followers](https://img.shields.io/github/followers/sayyiddega?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: Sayid Al Husain Bilfagih](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=www.linkedin.com/in/sayid-al-husain-bilfagih-5a415b160)][linkedin]
+<br>
 <img align="right" height="150" src="https://i.pinimg.com/originals/00/61/fc/0061fc35a408f083f47d2ba5b92a4a73.gif"  />
 </div>
 
