@@ -29,7 +29,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/sayyiddega?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: Sayid Al Husain Bilfagih](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=www.linkedin.com/in/sayid-al-husain-bilfagih-5a415b160)][linkedin]
 <br>
-<img align="right" height="150" src="https://i.pinimg.com/originals/00/61/fc/0061fc35a408f083f47d2ba5b92a4a73.gif"  />
+<img align="right" height="120" src="https://i.pinimg.com/originals/00/61/fc/0061fc35a408f083f47d2ba5b92a4a73.gif"  />
 </div>
 
 - 👯 &ensp;I’m looking to collaborate with others
